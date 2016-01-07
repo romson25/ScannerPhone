@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gui.ui.qml</file>
+        <file>ControlButtonLogin.qml</file>
+        <file>ControlButtonMenu.qml</file>
+        <file>ControlLabel.qml</file>
+        <file>ControlTextInput.qml</file>
+        <file>PanelLogin.qml</file>
+        <file>PanelMenuBar.qml</file>
+        <file>PanelPreview.qml</file>
+        <file>../graphics/background.jpg</file>
+    </qresource>
+</RCC>
